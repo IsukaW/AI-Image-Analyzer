@@ -32,5 +32,5 @@ AI Image Analyzer is a web application that allows users to upload images and as
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ai-image-analyzer.git
+   git clone https://github.com/IsukaW/AI-Image-Analyzer.git
    cd ai-image-analyzer
